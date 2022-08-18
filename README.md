@@ -7,15 +7,15 @@ npm install -g create-react-app\
 create-react-app my-app
 
 ## React router v4 or v5
-> <Route path="/" component={Home} />
+> `<Route path="/" component={Home} />`
 
 ## React router v5.1
-> <Route exact path="/">
->    <Home />
-> </Route>
+> `<Route exact path="/">`
+>    `<Home />`
+> `</Route>`
 
 ## React router v6
-> <Route path="/" element={<Home />} />
+> `<Route path="/" element={<Home />} />`
 
 ## For more: React Router - Upgrading to V6
 
